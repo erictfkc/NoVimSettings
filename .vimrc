@@ -33,10 +33,9 @@ set rtp+=~/.vim/bundle/vundle/
 
 call vundle#rc()
 
-"Plugin 'Lokaltog/powerline'
 Plugin 'bling/vim-airline'
 Plugin 'c9s/colorselector.vim'
-Plugin 'msanders/snipmate.vim'
+Plugin 'garbas/vim-snipmate'
 Plugin 'ap/vim-css-color'
 Plugin 'tpope/vim-surround'
 Plugin 'scrooloose/nerdtree'
