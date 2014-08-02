@@ -18,7 +18,7 @@ This will made a amazing visual effect.(Airline Plugin)
 ##§Include Plugins  
 1.[vim-airline](https://github.com/bling/vim-airline)  
 2.[ColorSelector](https://github.com/c9s/colorselector.vim)  
-3.[Snipmate](https://github.com/msanders/snipmate.vim)  
+3.[Snipmate](https://github.com/garbas/vim-snipmate)  
 4.[Vim-css-color](https://github.com/skammer/vim-css-color)  
 5.[NERDtree](https://github.com/scrooloose/nerdtree)  
 6.[FuzzyFinder](https://github.com/vim-scripts/FuzzyFinder)  
