@@ -7,11 +7,11 @@ I collect some useful items and made my vim more friendly.
 
 ##======Usage======##  
 1. Backup your original setting foldr. (~/.vim)  
-2. Type 'git clone https://github.com/erictfkc/NoVimSettings.git ~/.vim/'  
+2. Type `git clone https://github.com/erictfkc/NoVimSettings.git ~/.vim/`  
 to clone my file to your .vim folder.  
-3. Type "git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle"  
+3. Type `git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle`  
 to install the vundle plugin to manage plugins.  
-*4. (Option) Install patch font (powerline-fonts) on "https://github.com/Lokaltog/powerline-fonts"  
+*4. (Option) Install patch font (powerline-fonts) on `https://github.com/Lokaltog/powerline-fonts`  
 This will made a amazing visual effect.(Airline Plugin)  
   
 ##======Include Plugins======##  
@@ -23,4 +23,7 @@ This will made a amazing visual effect.(Airline Plugin)
 6.FuzzyFinder  
   
 ##======Map Control======##  
-
+`F3` Open a new tab  
+`F4` Close current tab  
+`F7` Previous tab  
+`F8` Next Tab  
