@@ -1,6 +1,6 @@
 #NoVimSettings#
 ##======Intro======  
-It's my first post on Github.  
+It's my first repo on Github.  
 This project is a Vim Setting set.  
 Give some catechumen to use.  
 I collect some useful items and made my vim more friendly.  
