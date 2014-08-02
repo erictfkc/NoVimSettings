@@ -15,13 +15,13 @@ to install the vundle plugin to manage plugins.
 This will made a amazing visual effect.(Airline Plugin)  
   
 ##======Include Plugins======  
-1.[Airline](https://github.com/bling/vim-airline)  
-2.ColorSelector  
-3.Snipmate  
-4.Vim-css-color  
-5.NERDtree  
-6.FuzzyFinder  
-  
+1.[vim-airline](https://github.com/bling/vim-airline)  
+2.[ColorSelector](https://github.com/c9s/colorselector.vim)  
+3.[Snipmate](https://github.com/msanders/snipmate.vim)  
+4.[Vim-css-color](https://github.com/skammer/vim-css-color)  
+5.[NERDtree](https://github.com/scrooloose/nerdtree)  
+6.[FuzzyFinder](https://github.com/vim-scripts/FuzzyFinder)  
+7.[ctrlp](https://github.com/kien/ctrlp.vim)  
 ##======Control Mapping======  
 `F2` NERDTree Toggle
 `F3` Open a new tab  
