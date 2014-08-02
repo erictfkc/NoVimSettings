@@ -23,7 +23,10 @@ This will made a amazing visual effect.(Airline Plugin)
 6.FuzzyFinder  
   
 ##======Map Control======  
+`F2` NERDTree Toggle
 `F3` Open a new tab  
 `F4` Close current tab  
 `F7` Previous tab  
 `F8` Next Tab  
+##======Screenshot======  
+![image](http://i.imgur.com/uNWwxqu.png)  
