@@ -1,11 +1,11 @@
 #NoVimSettings#
-##======Intro======  
+##§Intro======  
 It's my first repo on Github.  
 This project is a Vim Setting set.  
 Give some catechumen to use.  
 I collect some useful items and made my vim more friendly.  
 
-##======Usage======  
+##§Usage======  
 1. Backup your original setting foldr. (~/.vim)  
 2. Type `git clone https://github.com/erictfkc/NoVimSettings.git ~/.vim/`  
 to clone my file to your .vim folder.  
@@ -15,7 +15,7 @@ to install the vundle plugin to manage plugins.
 5. (Option) Install patch font (powerline-fonts) on [powerline-fonts](https://github.com/Lokaltog/powerline-fonts)    
 This will made a amazing visual effect.(Airline Plugin)  
   
-##======Include Plugins======  
+##§Include Plugins======  
 1.[vim-airline](https://github.com/bling/vim-airline)  
 2.[ColorSelector](https://github.com/c9s/colorselector.vim)  
 3.[Snipmate](https://github.com/msanders/snipmate.vim)  
@@ -23,11 +23,11 @@ This will made a amazing visual effect.(Airline Plugin)
 5.[NERDtree](https://github.com/scrooloose/nerdtree)  
 6.[FuzzyFinder](https://github.com/vim-scripts/FuzzyFinder)  
 7.[ctrlp](https://github.com/kien/ctrlp.vim)  
-##======Control Mapping======  
+##§Control Mapping======  
 `F2` NERDTree Toggle  
 `F3` Open a new tab  
 `F4` Close current tab  
 `F7` Previous tab  
 `F8` Next Tab  
-##======Screenshot======  
+##§Screenshot======  
 ![image](http://i.imgur.com/uNWwxqu.png)  
