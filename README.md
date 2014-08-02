@@ -12,7 +12,7 @@ to clone my file to your .vim folder.
 3. Type `git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle`  
 to install the vundle plugin to manage plugins.  
 4. Enter Vim and type `:PluginInstall` to update Plugins.
-5. (Option) Install patch font (powerline-fonts) on `https://github.com/Lokaltog/powerline-fonts`  
+5. (Option) Install patch font (powerline-fonts) on [powerline-fonts](https://github.com/Lokaltog/powerline-fonts)    
 This will made a amazing visual effect.(Airline Plugin)  
   
 ##======Include Plugins======  
