@@ -23,7 +23,7 @@ This will made a amazing visual effect.(Airline Plugin)
 5.[NERDtree](https://github.com/scrooloose/nerdtree)  
 6.[FuzzyFinder](https://github.com/vim-scripts/FuzzyFinder)  
 7.[ctrlp](https://github.com/kien/ctrlp.vim)  
-##§Control Mapping  
+##§Key Mapping  
 `F2` NERDTree Toggle  
 `F3` Open a new tab  
 `F4` Close current tab  
