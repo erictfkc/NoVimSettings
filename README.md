@@ -15,7 +15,7 @@ to install the vundle plugin to manage plugins.
 This will made a amazing visual effect.(Airline Plugin)  
   
 ##======Include Plugins======  
-1.[vim-airline][6]  
+1.Vim-airline(https://github.com/bling/vim-airline)  
 2.ColorSelector  
 3.Snipmate  
 4.Vim-css-color  
