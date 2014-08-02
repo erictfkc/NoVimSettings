@@ -1,5 +1,4 @@
-#NoVimSettings#  
-
+#NoVimSettings#
 ##======Intro======##  
 It's my first post on Github.  
 This project is a Vim Setting set.  
