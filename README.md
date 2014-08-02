@@ -22,7 +22,7 @@ This will made a amazing visual effect.(Airline Plugin)
 5.NERDtree  
 6.FuzzyFinder  
   
-##======Map Control======  
+##======Control Mapping======  
 `F2` NERDTree Toggle
 `F3` Open a new tab  
 `F4` Close current tab  
