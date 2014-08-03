@@ -7,12 +7,14 @@ I collect some useful items and made my vim more friendly.
 
 ##§Usage  
 1. Backup your original setting foldr. (~/.vim)  
-2. Enter `git clone https://github.com/erictfkc/NoVimSettings.git ~/.vim/` in your terminal  
+2. Remove the .vim folder by `rm ~/.vim/ -r -f`
+3. Enter `git clone https://github.com/erictfkc/NoVimSettings.git ~/.vim/` in your terminal  
 to clone my file to your .vim folder.  
-3. Enter `git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle` in your terminal  
+4. Enter `git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle` in your terminal  
 to install the vundle plugin to manage plugins.  
-4. Enter Vim and type `:PluginInstall` to update Plugins.
-5. (Option) Install patch font (powerline-fonts) on [powerline-fonts](https://github.com/Lokaltog/powerline-fonts)    
+5. Move the .vimrc to your home folder `mv ~/.vim/.vimrc ~/ -f`
+6. Enter Vim and type `:PluginInstall` to update Plugins.
+7. (Option) Install patch font (powerline-fonts) on [powerline-fonts](https://github.com/Lokaltog/powerline-fonts)    
 This will made a amazing visual effect.(Airline Plugin)  
   
 ##§Include Plugins  
