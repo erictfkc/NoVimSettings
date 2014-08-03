@@ -7,9 +7,9 @@ I collect some useful items and made my vim more friendly.
 
 ##§Usage  
 1. Backup your original setting foldr. (~/.vim)  
-2. Type `git clone https://github.com/erictfkc/NoVimSettings.git ~/.vim/`  
+2. Enter `git clone https://github.com/erictfkc/NoVimSettings.git ~/.vim/` in your terminal  
 to clone my file to your .vim folder.  
-3. Type `git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle`  
+3. Enter `git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle` in your terminal  
 to install the vundle plugin to manage plugins.  
 4. Enter Vim and type `:PluginInstall` to update Plugins.
 5. (Option) Install patch font (powerline-fonts) on [powerline-fonts](https://github.com/Lokaltog/powerline-fonts)    
