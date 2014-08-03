@@ -3,6 +3,9 @@ syntax on
 
 set encoding=utf-8
 
+set ic
+"搜尋時忽略大小寫
+
 colorscheme Tomorrow-Night-Eighties
 "選擇Colorscheme
 
@@ -35,7 +38,6 @@ call vundle#rc()
 
 Plugin 'bling/vim-airline'
 Plugin 'c9s/colorselector.vim'
-Plugin 'garbas/vim-snipmate'
 Plugin 'ap/vim-css-color'
 Plugin 'tpope/vim-surround'
 Plugin 'scrooloose/nerdtree'
@@ -43,6 +45,11 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'L9'
 Plugin 'FuzzyFinder'
 Plugin 'tomtom/tcomment_vim'
+Plugin 'MarcWeber/vim-addon-mw-utils'
+Plugin 'tomtom/tlib_vim'
+Plugin 'garbas/vim-snipmate'
+Plugin 'honza/vim-snippets'
+"Plugin 'Valloric/YouCompleteMe'
 "上面幾行設定安裝的插件
 
 filetype plugin indent on
